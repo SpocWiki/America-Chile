@@ -40,11 +40,16 @@ markerFolder: ./Los_Ríos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Los_Ríos|Los_Ríos]] 
-- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Los_Ríos.public|Los_Ríos.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Los_Ríos.internal|Los_Ríos.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Los_Ríos.protect|Los_Ríos.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Los_Ríos.private|Los_Ríos.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Los_Ríos.personal|Los_Ríos.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Los_Ríos.secret|Los_Ríos.secret]] 
+
+### [Los_Ríos.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileLos_Ríos.public.md) 
+
+### [Los_Ríos.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileLos_Ríos.internal.md) 
+
+### [Los_Ríos.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileLos_Ríos.protect.md) 
+
+### [Los_Ríos.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileLos_Ríos.private.md) 
+
+### [Los_Ríos.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileLos_Ríos.personal.md) 
+
+### [Los_Ríos.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileLos_Ríos.secret.md)
 

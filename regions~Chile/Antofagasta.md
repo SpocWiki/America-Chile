@@ -40,11 +40,16 @@ markerFolder: ./Antofagasta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Antofagasta|Antofagasta]] 
-- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Antofagasta.public|Antofagasta.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Antofagasta.internal|Antofagasta.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Antofagasta.protect|Antofagasta.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Antofagasta.private|Antofagasta.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Antofagasta.personal|Antofagasta.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Antofagasta.secret|Antofagasta.secret]] 
+
+### [Antofagasta.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileAntofagasta.public.md) 
+
+### [Antofagasta.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileAntofagasta.internal.md) 
+
+### [Antofagasta.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileAntofagasta.protect.md) 
+
+### [Antofagasta.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileAntofagasta.private.md) 
+
+### [Antofagasta.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileAntofagasta.personal.md) 
+
+### [Antofagasta.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileAntofagasta.secret.md)
 

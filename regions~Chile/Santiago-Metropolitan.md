@@ -40,11 +40,16 @@ markerFolder: ./Región_Metropolitana_de_Santiago/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Región_Metropolitana_de_Santiago|Región_Metropolitana_de_Santiago]] 
-- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Región_Metropolitana_de_Santiago.public|Región_Metropolitana_de_Santiago.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Región_Metropolitana_de_Santiago.internal|Región_Metropolitana_de_Santiago.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Región_Metropolitana_de_Santiago.protect|Región_Metropolitana_de_Santiago.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Región_Metropolitana_de_Santiago.private|Región_Metropolitana_de_Santiago.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Región_Metropolitana_de_Santiago.personal|Región_Metropolitana_de_Santiago.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Región_Metropolitana_de_Santiago.secret|Región_Metropolitana_de_Santiago.secret]] 
+
+### [Santiago-Metropolitan.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.public.md) 
+
+### [Santiago-Metropolitan.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.internal.md) 
+
+### [Santiago-Metropolitan.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.protect.md) 
+
+### [Santiago-Metropolitan.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.private.md) 
+
+### [Santiago-Metropolitan.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.personal.md) 
+
+### [Santiago-Metropolitan.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Bío-Bío/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Bío-Bío|Bío-Bío]] 
-- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Bío-Bío.public|Bío-Bío.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Bío-Bío.internal|Bío-Bío.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Bío-Bío.protect|Bío-Bío.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Bío-Bío.private|Bío-Bío.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Bío-Bío.personal|Bío-Bío.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Bío-Bío.secret|Bío-Bío.secret]] 
+
+### [Bío-Bío.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileBío-Bío.public.md) 
+
+### [Bío-Bío.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileBío-Bío.internal.md) 
+
+### [Bío-Bío.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileBío-Bío.protect.md) 
+
+### [Bío-Bío.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileBío-Bío.private.md) 
+
+### [Bío-Bío.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileBío-Bío.personal.md) 
+
+### [Bío-Bío.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileBío-Bío.secret.md)
 

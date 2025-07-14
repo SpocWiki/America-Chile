@@ -40,11 +40,16 @@ markerFolder: ./Libertador_General_Bernardo_O'Higgins/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins|Libertador_General_Bernardo_O'Higgins]] 
-- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.public|Libertador_General_Bernardo_O'Higgins.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.internal|Libertador_General_Bernardo_O'Higgins.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.protect|Libertador_General_Bernardo_O'Higgins.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.private|Libertador_General_Bernardo_O'Higgins.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.personal|Libertador_General_Bernardo_O'Higgins.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.secret|Libertador_General_Bernardo_O'Higgins.secret]] 
+
+### [Libertador_General_Bernardo_O'Higgins.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileLibertador_General_Bernardo_O'Higgins.public.md) 
+
+### [Libertador_General_Bernardo_O'Higgins.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileLibertador_General_Bernardo_O'Higgins.internal.md) 
+
+### [Libertador_General_Bernardo_O'Higgins.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileLibertador_General_Bernardo_O'Higgins.protect.md) 
+
+### [Libertador_General_Bernardo_O'Higgins.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileLibertador_General_Bernardo_O'Higgins.private.md) 
+
+### [Libertador_General_Bernardo_O'Higgins.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileLibertador_General_Bernardo_O'Higgins.personal.md) 
+
+### [Libertador_General_Bernardo_O'Higgins.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileLibertador_General_Bernardo_O'Higgins.secret.md)
 

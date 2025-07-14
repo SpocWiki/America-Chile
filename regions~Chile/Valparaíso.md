@@ -40,11 +40,16 @@ markerFolder: ./Valparaíso/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Valparaíso|Valparaíso]] 
-- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Valparaíso.public|Valparaíso.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Valparaíso.internal|Valparaíso.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Valparaíso.protect|Valparaíso.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Valparaíso.private|Valparaíso.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Valparaíso.personal|Valparaíso.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Valparaíso.secret|Valparaíso.secret]] 
+
+### [Valparaíso.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileValparaíso.public.md) 
+
+### [Valparaíso.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileValparaíso.internal.md) 
+
+### [Valparaíso.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileValparaíso.protect.md) 
+
+### [Valparaíso.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileValparaíso.private.md) 
+
+### [Valparaíso.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileValparaíso.personal.md) 
+
+### [Valparaíso.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileValparaíso.secret.md)
 

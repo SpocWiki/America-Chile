@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-33.45,-70.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Chile/City/Santiago|Santiago]] 
-- [[../../../../../../_public/geo/Continent/America~South/Chile/City/Santiago.public|Santiago.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Chile/City/Santiago.internal|Santiago.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Chile/City/Santiago.protect|Santiago.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Chile/City/Santiago.private|Santiago.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Chile/City/Santiago.personal|Santiago.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Chile/City/Santiago.secret|Santiago.secret]] 
+
+### [Santiago.public](/_public/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.public.md) 
+
+### [Santiago.internal](/_internal/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.internal.md) 
+
+### [Santiago.protect](/_protect/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.protect.md) 
+
+### [Santiago.private](/_private/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.private.md) 
+
+### [Santiago.personal](/_personal/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.personal.md) 
+
+### [Santiago.secret](/_secret/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.secret.md)
+

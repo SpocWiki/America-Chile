@@ -40,11 +40,16 @@ markerFolder: ./Magallanes_y_Antártica_Chilena/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena|Magallanes_y_Antártica_Chilena]] 
-- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.public|Magallanes_y_Antártica_Chilena.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.internal|Magallanes_y_Antártica_Chilena.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.protect|Magallanes_y_Antártica_Chilena.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.private|Magallanes_y_Antártica_Chilena.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.personal|Magallanes_y_Antártica_Chilena.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Magallanes_y_Antártica_Chilena.secret|Magallanes_y_Antártica_Chilena.secret]] 
+
+### [Magallanes_y_Antártica_Chilena.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.public.md) 
+
+### [Magallanes_y_Antártica_Chilena.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.internal.md) 
+
+### [Magallanes_y_Antártica_Chilena.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.protect.md) 
+
+### [Magallanes_y_Antártica_Chilena.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.private.md) 
+
+### [Magallanes_y_Antártica_Chilena.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.personal.md) 
+
+### [Magallanes_y_Antártica_Chilena.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.secret.md)
 
