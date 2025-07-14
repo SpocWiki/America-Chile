@@ -41,15 +41,17 @@ markerFolder: ./Arica_y_Parinacota/
 
 ## Confidential Links & Embeds: 
 
-### [Arica_y_Parinacota.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileArica_y_Parinacota.public.md) 
+### [Arica_y_Parinacota](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.md) 
 
-### [Arica_y_Parinacota.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileArica_y_Parinacota.internal.md) 
+### [Arica_y_Parinacota.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.public.md) 
 
-### [Arica_y_Parinacota.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileArica_y_Parinacota.protect.md) 
+### [Arica_y_Parinacota.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.internal.md) 
 
-### [Arica_y_Parinacota.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileArica_y_Parinacota.private.md) 
+### [Arica_y_Parinacota.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.protect.md) 
 
-### [Arica_y_Parinacota.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileArica_y_Parinacota.personal.md) 
+### [Arica_y_Parinacota.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.private.md) 
 
-### [Arica_y_Parinacota.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileArica_y_Parinacota.secret.md)
+### [Arica_y_Parinacota.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.personal.md) 
+
+### [Arica_y_Parinacota.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.secret.md)
 

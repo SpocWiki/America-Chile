@@ -134,15 +134,17 @@ Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~South\ChileReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~South/Chile/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~South\ChileReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~South/Chile/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~South\ChileReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~South/Chile/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~South\ChileReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~South/Chile/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~South\ChileReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~South/Chile/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~South\ChileReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~South/Chile/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~South/Chile/ReadMe.secret.md)
 

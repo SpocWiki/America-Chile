@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes.public](/_public/\Earth\Continent\America~South\Chile\regions~Chile\Araucanía_Lakes.public.md) 
+### [_Lakes](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Araucanía/_Lakes.md) 
 
-### [_Lakes.internal](/_internal/\Earth\Continent\America~South\Chile\regions~Chile\Araucanía_Lakes.internal.md) 
+### [_Lakes.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Araucanía/_Lakes.public.md) 
 
-### [_Lakes.protect](/_protect/\Earth\Continent\America~South\Chile\regions~Chile\Araucanía_Lakes.protect.md) 
+### [_Lakes.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Araucanía/_Lakes.internal.md) 
 
-### [_Lakes.private](/_private/\Earth\Continent\America~South\Chile\regions~Chile\Araucanía_Lakes.private.md) 
+### [_Lakes.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Araucanía/_Lakes.protect.md) 
 
-### [_Lakes.personal](/_personal/\Earth\Continent\America~South\Chile\regions~Chile\Araucanía_Lakes.personal.md) 
+### [_Lakes.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Araucanía/_Lakes.private.md) 
 
-### [_Lakes.secret](/_secret/\Earth\Continent\America~South\Chile\regions~Chile\Araucanía_Lakes.secret.md)
+### [_Lakes.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Araucanía/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Araucanía/_Lakes.secret.md)
 

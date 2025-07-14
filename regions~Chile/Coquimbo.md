@@ -41,15 +41,17 @@ markerFolder: ./Coquimbo/
 
 ## Confidential Links & Embeds: 
 
-### [Coquimbo.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileCoquimbo.public.md) 
+### [Coquimbo](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.md) 
 
-### [Coquimbo.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileCoquimbo.internal.md) 
+### [Coquimbo.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.public.md) 
 
-### [Coquimbo.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileCoquimbo.protect.md) 
+### [Coquimbo.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.internal.md) 
 
-### [Coquimbo.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileCoquimbo.private.md) 
+### [Coquimbo.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.protect.md) 
 
-### [Coquimbo.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileCoquimbo.personal.md) 
+### [Coquimbo.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.private.md) 
 
-### [Coquimbo.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileCoquimbo.secret.md)
+### [Coquimbo.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.personal.md) 
+
+### [Coquimbo.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.secret.md)
 

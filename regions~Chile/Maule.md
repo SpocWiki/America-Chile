@@ -41,15 +41,17 @@ markerFolder: ./Maule/
 
 ## Confidential Links & Embeds: 
 
-### [Maule.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileMaule.public.md) 
+### [Maule](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Maule.md) 
 
-### [Maule.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileMaule.internal.md) 
+### [Maule.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Maule.public.md) 
 
-### [Maule.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileMaule.protect.md) 
+### [Maule.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Maule.internal.md) 
 
-### [Maule.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileMaule.private.md) 
+### [Maule.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Maule.protect.md) 
 
-### [Maule.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileMaule.personal.md) 
+### [Maule.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Maule.private.md) 
 
-### [Maule.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileMaule.secret.md)
+### [Maule.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Maule.personal.md) 
+
+### [Maule.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Maule.secret.md)
 

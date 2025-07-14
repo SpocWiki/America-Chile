@@ -41,15 +41,17 @@ markerFolder: ./Atacama/
 
 ## Confidential Links & Embeds: 
 
-### [Atacama.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileAtacama.public.md) 
+### [Atacama](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Atacama.md) 
 
-### [Atacama.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileAtacama.internal.md) 
+### [Atacama.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Atacama.public.md) 
 
-### [Atacama.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileAtacama.protect.md) 
+### [Atacama.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Atacama.internal.md) 
 
-### [Atacama.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileAtacama.private.md) 
+### [Atacama.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Atacama.protect.md) 
 
-### [Atacama.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileAtacama.personal.md) 
+### [Atacama.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Atacama.private.md) 
 
-### [Atacama.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileAtacama.secret.md)
+### [Atacama.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Atacama.personal.md) 
+
+### [Atacama.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Atacama.secret.md)
 

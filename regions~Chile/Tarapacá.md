@@ -41,15 +41,17 @@ markerFolder: ./Tarapacá/
 
 ## Confidential Links & Embeds: 
 
-### [Tarapacá.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileTarapacá.public.md) 
+### [Tarapacá](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Tarapacá.md) 
 
-### [Tarapacá.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileTarapacá.internal.md) 
+### [Tarapacá.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Tarapacá.public.md) 
 
-### [Tarapacá.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileTarapacá.protect.md) 
+### [Tarapacá.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Tarapacá.internal.md) 
 
-### [Tarapacá.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileTarapacá.private.md) 
+### [Tarapacá.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Tarapacá.protect.md) 
 
-### [Tarapacá.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileTarapacá.personal.md) 
+### [Tarapacá.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Tarapacá.private.md) 
 
-### [Tarapacá.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileTarapacá.secret.md)
+### [Tarapacá.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Tarapacá.personal.md) 
+
+### [Tarapacá.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Tarapacá.secret.md)
 

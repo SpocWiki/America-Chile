@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Santiago.public](/_public/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.public.md) 
+### [Santiago](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.md) 
 
-### [Santiago.internal](/_internal/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.internal.md) 
+### [Santiago.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.public.md) 
 
-### [Santiago.protect](/_protect/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.protect.md) 
+### [Santiago.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.internal.md) 
 
-### [Santiago.private](/_private/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.private.md) 
+### [Santiago.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.protect.md) 
 
-### [Santiago.personal](/_personal/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.personal.md) 
+### [Santiago.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.private.md) 
 
-### [Santiago.secret](/_secret/\Earth\Continent\America~South\Chile\regions~Chile\Santiago-Metropolitan\CitySantiago.secret.md)
+### [Santiago.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.personal.md) 
+
+### [Santiago.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.secret.md)
 

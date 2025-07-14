@@ -41,15 +41,17 @@ markerFolder: ./Los_Lagos/
 
 ## Confidential Links & Embeds: 
 
-### [Los_Lagos.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileLos_Lagos.public.md) 
+### [Los_Lagos](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Los_Lagos.md) 
 
-### [Los_Lagos.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileLos_Lagos.internal.md) 
+### [Los_Lagos.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Los_Lagos.public.md) 
 
-### [Los_Lagos.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileLos_Lagos.protect.md) 
+### [Los_Lagos.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Los_Lagos.internal.md) 
 
-### [Los_Lagos.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileLos_Lagos.private.md) 
+### [Los_Lagos.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Los_Lagos.protect.md) 
 
-### [Los_Lagos.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileLos_Lagos.personal.md) 
+### [Los_Lagos.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Los_Lagos.private.md) 
 
-### [Los_Lagos.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileLos_Lagos.secret.md)
+### [Los_Lagos.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Los_Lagos.personal.md) 
+
+### [Los_Lagos.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Los_Lagos.secret.md)
 

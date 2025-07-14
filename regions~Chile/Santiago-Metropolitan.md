@@ -41,15 +41,17 @@ markerFolder: ./Región_Metropolitana_de_Santiago/
 
 ## Confidential Links & Embeds: 
 
-### [Santiago-Metropolitan.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.public.md) 
+### [Santiago-Metropolitan](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.md) 
 
-### [Santiago-Metropolitan.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.internal.md) 
+### [Santiago-Metropolitan.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.public.md) 
 
-### [Santiago-Metropolitan.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.protect.md) 
+### [Santiago-Metropolitan.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.internal.md) 
 
-### [Santiago-Metropolitan.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.private.md) 
+### [Santiago-Metropolitan.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.protect.md) 
 
-### [Santiago-Metropolitan.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.personal.md) 
+### [Santiago-Metropolitan.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.private.md) 
 
-### [Santiago-Metropolitan.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileSantiago-Metropolitan.secret.md)
+### [Santiago-Metropolitan.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.personal.md) 
+
+### [Santiago-Metropolitan.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.secret.md)
 

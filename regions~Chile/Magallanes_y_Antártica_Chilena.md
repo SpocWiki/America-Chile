@@ -41,15 +41,17 @@ markerFolder: ./Magallanes_y_Antártica_Chilena/
 
 ## Confidential Links & Embeds: 
 
-### [Magallanes_y_Antártica_Chilena.public](/_public/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.public.md) 
+### [Magallanes_y_Antártica_Chilena](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.md) 
 
-### [Magallanes_y_Antártica_Chilena.internal](/_internal/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.internal.md) 
+### [Magallanes_y_Antártica_Chilena.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.public.md) 
 
-### [Magallanes_y_Antártica_Chilena.protect](/_protect/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.protect.md) 
+### [Magallanes_y_Antártica_Chilena.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.internal.md) 
 
-### [Magallanes_y_Antártica_Chilena.private](/_private/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.private.md) 
+### [Magallanes_y_Antártica_Chilena.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.protect.md) 
 
-### [Magallanes_y_Antártica_Chilena.personal](/_personal/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.personal.md) 
+### [Magallanes_y_Antártica_Chilena.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.private.md) 
 
-### [Magallanes_y_Antártica_Chilena.secret](/_secret/\Earth\Continent\America~South\Chile\regions~ChileMagallanes_y_Antártica_Chilena.secret.md)
+### [Magallanes_y_Antártica_Chilena.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.personal.md) 
+
+### [Magallanes_y_Antártica_Chilena.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.secret.md)
 

@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\ChileLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Chile/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\ChileLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Chile/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\ChileLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Chile/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\ChileLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Chile/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\ChileLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Chile/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\ChileLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Chile/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Chile/License.secret.md)
 
