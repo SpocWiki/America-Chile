@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Valparaíso
+  - Valparaiso
 location:
   - -33
   - -71
@@ -12,8 +15,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Valparaíso
 Languages:
   - de
 cssclasses:
@@ -26,7 +27,7 @@ publishDate:
 expiryDate:
 ---
 
-# Valparaíso
+# [[Valparaíso]]
 
 ```leaflet
 id: Valparaíso
