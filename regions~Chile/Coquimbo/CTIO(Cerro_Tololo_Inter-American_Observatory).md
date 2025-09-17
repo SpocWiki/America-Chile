@@ -30,17 +30,17 @@ date_of_official_opening: 1962-01-01T00:00:00Z
 
 # [[CTIO(Cerro_Tololo_Inter-American_Observatory)]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Cerro_Tololo_Inter-American_Observatory,1056113|WD~Cerro_Tololo_Inter-American_Observatory,1056113]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Cerro_Tololo_Inter-American_Observatory,1056113|WD~Cerro_Tololo_Inter-American_Observatory,1056113]] 
 
 ## #has_/text_of_/abstract 
 
 > The Cerro Tololo Inter-American Observatory (CTIO) is an astronomical observatory 
-> located on the summit of Mt. Cerro Tololo in the [[regions~Chile/Coquimbo|Coquimbo]] Region of northern Chile, 
+> located on the summit of Mt. Cerro Tololo in the [[../Coquimbo|Coquimbo]] Region of northern Chile, 
 > with additional facilities located on Mt. Cerro Pachón about 10 kilometres (6.2 mi) to the southeast. 
 > It is approximately 80 kilometres (50 mi) east of La Serena, where support facilities are located. 
 >
 > The principal telescopes at CTIO are the 4 m Víctor M. Blanco Telescope, 
-> named after Puerto Rican [[../../../../../../Astronomy/Astronomer|astronomer]] Víctor Manuel Blanco, 
+> named after Puerto Rican [[../../../../../../../Astronomy/Astronomer|astronomer]] Víctor Manuel Blanco, 
 > and the 4.1 m Southern Astrophysical Research Telescope, which is situated on Cerro Pachón. 
 > 
 > Other telescopes on Cerro Tololo include the 1.5 m, 1.3 m, 1.0 m, and 0.9 m telescopes 

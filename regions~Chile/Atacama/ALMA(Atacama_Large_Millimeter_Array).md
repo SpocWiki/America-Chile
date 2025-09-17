@@ -29,7 +29,7 @@ official_website: https://www.almaobservatory.org/
 
 # [[ALMA(Atacama_Large_Millimeter_Array)]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Atacama_Large_Millimeter_Array,725364|WD~Atacama_Large_Millimeter_Array,725364]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Atacama_Large_Millimeter_Array,725364|WD~Atacama_Large_Millimeter_Array,725364]] 
 
 ## #has_/text_of_/abstract 
 

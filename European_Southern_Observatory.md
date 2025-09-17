@@ -44,7 +44,7 @@ Commons_category: European Southern Observatory
 
 # [[European_Southern_Observatory]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]] 
+#is_/same_as :: [[../../../../../WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]] 
 
 ## #has_/text_of_/abstract 
 

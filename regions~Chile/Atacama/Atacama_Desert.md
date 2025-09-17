@@ -27,7 +27,7 @@ WWF_ecoregion_code: NT1303
 
 # [[Atacama_Desert]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Atacama_Desert,47141|WD~Atacama_Desert,47141]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Atacama_Desert,47141|WD~Atacama_Desert,47141]] 
 
 ## #has_/text_of_/abstract 
 
