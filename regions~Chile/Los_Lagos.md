@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Los_Lagos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Los_Lagos/
 markerFolder: ./Los_Lagos/

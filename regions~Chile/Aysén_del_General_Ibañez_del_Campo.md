@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Aisén_del_General_Carlos_Ibáñez_del_Campo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Aisén_del_General_Carlos_Ibáñez_del_Campo/
 markerFolder: ./Aisén_del_General_Carlos_Ibáñez_del_Campo/

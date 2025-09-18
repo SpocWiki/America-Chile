@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Libertador_General_Bernardo_O'Higgins
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Libertador_General_Bernardo_O'Higgins/
 markerFolder: ./Libertador_General_Bernardo_O'Higgins/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Región_Metropolitana_de_Santiago
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Región_Metropolitana_de_Santiago/
 markerFolder: ./Región_Metropolitana_de_Santiago/

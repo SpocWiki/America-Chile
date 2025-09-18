@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Magallanes_y_Antártica_Chilena
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Magallanes_y_Antártica_Chilena/
 markerFolder: ./Magallanes_y_Antártica_Chilena/
