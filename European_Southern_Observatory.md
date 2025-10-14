@@ -7,7 +7,7 @@ member_of:
   - "[[_Standards/WikiData/WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863]]"
   - "[[_Standards/WikiData/WD~Eiroforum,3045937]]"
   - "[[_Standards/WikiData/WD~European_Open_Science_Cloud_Association,125499293]]"
-headquarters_location: "[[_Standards/WikiData/WD~Garching_bei_München,264620]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Garching_bei_München,264620]]"
 instance_of:
   - "[[_Standards/WikiData/WD~international_organization,484652]]"
   - "[[_Standards/WikiData/WD~astronomical_observatory,1254933]]"
