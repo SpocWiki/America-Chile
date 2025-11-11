@@ -17,7 +17,7 @@ isDeleted: false
 confidential: public
 ---
 
-# [[Santiago]] 
+# [[Santiago,Chile]] 
 
 #is_a_/Place  
 #is_a_ :: [[Place]] 
@@ -34,9 +34,11 @@ Country :: [[../../../../Chile]]
 
 ```leaflet
 id: Santiago
-coordinates: [[Santiago]] 
-markerFile: [[Santiago]] 
-defaultZoom: 11 
+coordinates: [[Santiago,Chile]] 
+markerFile: [[Santiago,Chile]] 
+geojsonFolder: ./Santiago,Chile//
+markerFolder: ./Santiago,Chile//
+defaultZoom: 8 
 maxZoom: 18
 ```
 
@@ -50,7 +52,11 @@ maxZoom: 18
 >
 > Founded in 1541 by the Spanish conquistador Pedro de Valdivia, Santiago has served as the capital city of Chile since colonial times. The city features a downtown core characterized by 19th-century neoclassical architecture and winding side streets with a mix of Art Deco, Gothic Revival, and other styles. Santiago's cityscape is defined by several standalone hills and the fast-flowing Mapocho River, which is lined by parks such as  Parque Bicentenario, Parque Forestal, and Parque de la Familia. The Andes Mountains are visible from most parts of the city and contribute to a smog problem, particularly during winter due to the lack of rain. The outskirts of the city are surrounded by vineyards, and Santiago is within an hour's drive of both the mountains and the Pacific Ocean.
 >
-> Santiago is the political and financial center of Chile and hosts the regional headquarters of many multinational corporations and organizations. The Chilean government's executive and judiciary branches are based in Santiago, while the Congress mostly meets in nearby Valparaíso.
+> Santiago is the political and financial center of Chile 
+> and hosts the regional headquarters of many multinational corporations and organizations. 
+> 
+> The Chilean government's executive and judiciary branches are based in Santiago, 
+> while the Congress mostly meets in nearby Valparaíso.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Santiago) 
 
