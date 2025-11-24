@@ -26,15 +26,20 @@ publishDate:
 expiryDate:
 ---
 
-# Magallanes_y_Antártica_Chilena
+# [[Magallanes_y_Antártica_Chilena]] 
+
+## #has_/map 
 
 ```leaflet
 id: Magallanes_y_Antártica_Chilena
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Magallanes_y_Antártica_Chilena/
+geojsonFolder: ./Magallanes_y_Antártica_Chilena//
 markerFolder: ./Magallanes_y_Antártica_Chilena/
+coordinates: [[Magallanes_y_Antártica_Chilena]] 
+markerFile: [[Magallanes_y_Antártica_Chilena]] 
+defaultZoom: 11 
 ```
 
 
