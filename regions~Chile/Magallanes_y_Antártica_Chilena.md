@@ -28,6 +28,8 @@ expiryDate:
 
 # [[Magallanes_y_Antártica_Chilena]] 
 
+#is_/similar_to :: [[../../Argentina/Provinces~Argentina/Tierra_del_Fuego|Tierra_del_Fuego]] 
+
 ## #has_/map 
 
 ```leaflet
