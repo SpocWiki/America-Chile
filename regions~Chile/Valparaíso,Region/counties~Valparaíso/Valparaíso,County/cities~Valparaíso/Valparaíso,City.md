@@ -4,7 +4,9 @@ aliases:
   - Valparaiso
 has_id_wikidata: Q33986
 coordinate_location: Point(-71.619722222 -33.046111111)
-location: [ -33.046111111, -71.619722222]
+location:
+  - -33.046111111
+  - -71.619722222
 type: geo-Region
 title: Valparaíso
 license: CC BY-SA 4.0
@@ -51,7 +53,7 @@ capital_of:
   - "[[_Standards/WikiData/WD~Valparaíso,23660191]]"
 different_from: "[[_Standards/WikiData/WD~Valparaiso,231702]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
