@@ -1,4 +1,7 @@
 ---
+aliases:
+  - La_Araucanía
+  - Araucanía
 location:
   - -38.7
   - -72.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - La_Araucanía
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # La_Araucanía

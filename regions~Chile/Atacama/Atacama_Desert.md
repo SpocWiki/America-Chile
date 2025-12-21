@@ -1,25 +1,28 @@
 ---
+aliases:
+  - Atacama_Desert
+  - Atacama Desert
 has_id_wikidata: Q47141
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-shares_border_with: "[[_Standards/WikiData/WD~Puna,2118278]]"
-part_of: "[[_Standards/WikiData/WD~Pacific_desert,3705943]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+shares_border_with: '[[_Standards/WikiData/WD~Puna,2118278]]'
+part_of: '[[_Standards/WikiData/WD~Pacific_desert,3705943]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]"
-  - "[[_Standards/WikiData/WD~desert,8514]]"
+  - '[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]'
+  - '[[_Standards/WikiData/WD~desert,8514]]'
 coordinate_location: Point(-69.25 -24.5)
-country: "[[_Standards/WikiData/WD~Chile,298]]"
-different_from: "[[_Standards/WikiData/WD~Atacama_Region,2120]]"
+country: '[[_Standards/WikiData/WD~Chile,298]]'
+different_from: '[[_Standards/WikiData/WD~Atacama_Region,2120]]'
 area: 181300
 elevation_above_sea_level: 2657
-OmegaWiki_Defined_Meaning: "1258112"
+OmegaWiki_Defined_Meaning: 1258112
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atacama.png
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Atacama%20banner.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Atacama%20map.svg
-P8189: "987007294946205171"
+P8189: 987007294946205171
 Commons_gallery: Atacama Desert
 Commons_category: Atacama Desert
 WWF_ecoregion_code: NT1303

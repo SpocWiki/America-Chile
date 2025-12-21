@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Magallanes_y_Antártica_Chilena
+  - Magallanes y Antártica Chilena
 location:
   - -51.3
   - -73
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Magallanes_y_Antártica_Chilena
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Magallanes_y_Antártica_Chilena]] 

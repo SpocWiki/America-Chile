@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Aisén_del_General_Carlos_Ibáñez_del_Campo
+  - Aysén_del_General_Ibañez_del_Campo
+  - Aysén del General Ibañez del Campo
 location:
   - -46.4
   - -72.7
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Aisén_del_General_Carlos_Ibáñez_del_Campo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Aisén_del_General_Carlos_Ibáñez_del_Campo

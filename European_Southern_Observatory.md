@@ -1,26 +1,27 @@
 ---
 aliases:
   - European Southern Observatory
+  - European_Southern_Observatory
 has_id_wikidata: Q151991
 member_of:
-  - "[[_Standards/WikiData/WD~Q118398,118398]]"
-  - "[[_Standards/WikiData/WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863]]"
-  - "[[_Standards/WikiData/WD~Eiroforum,3045937]]"
-  - "[[_Standards/WikiData/WD~European_Open_Science_Cloud_Association,125499293]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Garching_bei_München,264620]]"
+  - '[[_Standards/WikiData/WD~Q118398,118398]]'
+  - '[[_Standards/WikiData/WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863]]'
+  - '[[_Standards/WikiData/WD~Eiroforum,3045937]]'
+  - '[[_Standards/WikiData/WD~European_Open_Science_Cloud_Association,125499293]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Garching_bei_München,264620]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~astronomical_observatory,1254933]]"
-  - "[[_Standards/WikiData/WD~research_institute,31855]]"
-director_manager: "[[_Standards/WikiData/WD~Xavier_Barcons,27986554]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~ESO_s_Director_General,28319177]]"
-has_part_s_: "[[_Standards/WikiData/WD~European_Southern_Observatory,_La_Silla_DSS,114232967]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+  - '[[_Standards/WikiData/WD~international_organization,484652]]'
+  - '[[_Standards/WikiData/WD~astronomical_observatory,1254933]]'
+  - '[[_Standards/WikiData/WD~research_institute,31855]]'
+director_manager: '[[_Standards/WikiData/WD~Xavier_Barcons,27986554]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~ESO_s_Director_General,28319177]]'
+has_part_s_: '[[_Standards/WikiData/WD~European_Southern_Observatory,_La_Silla_DSS,114232967]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 employees: 730
 social_media_followers:
   - 243000
   - 154823
-Minor_Planet_Center_observatory_code: "214"
+Minor_Planet_Center_observatory_code: 214
 inception: 1962-01-01T00:00:00Z
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/360-degree%20Panorama%20of%20the%20Southern%20Sky.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/ESO%20Timelapse%20Compilation.ogv
@@ -30,8 +31,8 @@ official_website:
   - https://www.eso.org/
   - https://www.eso.org/public/france/?lang
 ISNI:
-  - "0000000123644835"
-  - "0000000406456631"
+  - 0000000123644835
+  - 0000000406456631
 Google_Doodle: 13th-anniversary-of-the-4-unit-vlt-telescope-antu-kueyen-melipal-and-yepun
 X_Twitter_username: ESO
 Bluesky_handle: eso.org

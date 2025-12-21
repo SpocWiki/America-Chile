@@ -1,6 +1,7 @@
 ---
 aliases:
   - Santiago de Chile
+  - Santiago,Chile
 has_id_wikidata: Q2887
 location:
   - -33.45

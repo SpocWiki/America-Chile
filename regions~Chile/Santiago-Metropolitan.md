@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Región_Metropolitana_de_Santiago
+  - Santiago-Metropolitan
 location:
   - -33.6
   - -70.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Región_Metropolitana_de_Santiago
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Región_Metropolitana_de_Santiago

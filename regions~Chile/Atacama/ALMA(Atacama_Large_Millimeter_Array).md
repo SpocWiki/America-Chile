@@ -1,23 +1,26 @@
 ---
+aliases:
+  - ALMA(Atacama_Large_Millimeter_Array)
+  - ALMA(Atacama Large Millimeter Array)
 has_id_wikidata: Q725364
 operator:
-  - "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
-  - "[[_Standards/WikiData/WD~National_Science_Foundation,304878]]"
-  - "[[_Standards/WikiData/WD~National_Institutes_of_Natural_Sciences,_Japan,6973767]]"
-has_part_s_: "[[_Standards/WikiData/WD~radio_telescope,184356]]"
-instance_of: "[[_Standards/WikiData/WD~radio_interferometer,349772]]"
-part_of: "[[_Standards/WikiData/WD~Llano_de_Chajnantor_Observatory,3178387]]"
+  - '[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]'
+  - '[[_Standards/WikiData/WD~National_Science_Foundation,304878]]'
+  - '[[_Standards/WikiData/WD~National_Institutes_of_Natural_Sciences,_Japan,6973767]]'
+has_part_s_: '[[_Standards/WikiData/WD~radio_telescope,184356]]'
+instance_of: '[[_Standards/WikiData/WD~radio_interferometer,349772]]'
+part_of: '[[_Standards/WikiData/WD~Llano_de_Chajnantor_Observatory,3178387]]'
 coordinate_location: Point(-67.75318 -23.01928)
-country: "[[_Standards/WikiData/WD~Chile,298]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antofagasta_Region,2118]]"
+country: '[[_Standards/WikiData/WD~Chile,298]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antofagasta_Region,2118]]'
 capital_cost: 1400000000
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Atacama_Desert,47141]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Atacama_Desert,47141]]'
 elevation_above_sea_level: 5058.7
 social_media_followers: 52457
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ALMA%20Antennas%20on%20Chajnantor.jpg
 date_of_official_opening: 2013-03-13T00:00:00Z
 video: http://commons.wikimedia.org/wiki/Special:FilePath/The%20ALMA%20Time-lapse%20Compilation%202012.ogv
-ISNI: "0000000404525381"
+ISNI: 0000000404525381
 Instagram_username: alma.observatory
 Facebook_username: ALMA.Radiotelescope
 X_Twitter_username: almaobs

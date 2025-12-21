@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Arica_y_Parinacota
+  - Arica y Parinacota
 location:
   - -18.3
   - -69.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Arica_y_Parinacota
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Arica_y_Parinacota

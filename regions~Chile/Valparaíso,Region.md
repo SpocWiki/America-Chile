@@ -2,6 +2,7 @@
 aliases:
   - Valparaíso
   - Valparaiso
+  - Valparaíso,Region
 location:
   - -33
   - -71
@@ -20,11 +21,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Valparaíso,Region]] 

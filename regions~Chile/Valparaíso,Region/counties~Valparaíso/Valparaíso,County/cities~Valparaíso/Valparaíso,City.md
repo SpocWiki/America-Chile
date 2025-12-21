@@ -2,6 +2,7 @@
 aliases:
   - Valparaíso
   - Valparaiso
+  - Valparaíso,City
 has_id_wikidata: Q33986
 coordinate_location: Point(-71.619722222 -33.046111111)
 location:
@@ -22,67 +23,67 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Callao,105037]]"
-  - "[[_Standards/WikiData/WD~Malacca,185221]]"
-  - "[[_Standards/WikiData/WD~Bat_Yam,208725]]"
-  - "[[_Standards/WikiData/WD~Santa_Fe,615722]]"
-  - "[[_Standards/WikiData/WD~Barcelona,1492]]"
-  - "[[_Standards/WikiData/WD~Odesa,1874]]"
-  - "[[_Standards/WikiData/WD~Shanghai,8686]]"
-  - "[[_Standards/WikiData/WD~Oviedo,14317]]"
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Badalona,15468]]"
-  - "[[_Standards/WikiData/WD~Novorossiysk,15760]]"
-  - "[[_Standards/WikiData/WD~Busan,16520]]"
-  - "[[_Standards/WikiData/WD~Long_Beach,16739]]"
-  - "[[_Standards/WikiData/WD~San_Francisco,62]]"
-  - "[[_Standards/WikiData/WD~Salvador,36947]]"
-  - "[[_Standards/WikiData/WD~Córdoba,44210]]"
-  - "[[_Standards/WikiData/WD~Rosario,52535]]"
-  - "[[_Standards/WikiData/WD~Malacca,61089]]"
-  - "[[_Standards/WikiData/WD~Guanajuato,61306]]"
+  - '[[_Standards/WikiData/WD~Callao,105037]]'
+  - '[[_Standards/WikiData/WD~Malacca,185221]]'
+  - '[[_Standards/WikiData/WD~Bat_Yam,208725]]'
+  - '[[_Standards/WikiData/WD~Santa_Fe,615722]]'
+  - '[[_Standards/WikiData/WD~Barcelona,1492]]'
+  - '[[_Standards/WikiData/WD~Odesa,1874]]'
+  - '[[_Standards/WikiData/WD~Shanghai,8686]]'
+  - '[[_Standards/WikiData/WD~Oviedo,14317]]'
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Badalona,15468]]'
+  - '[[_Standards/WikiData/WD~Novorossiysk,15760]]'
+  - '[[_Standards/WikiData/WD~Busan,16520]]'
+  - '[[_Standards/WikiData/WD~Long_Beach,16739]]'
+  - '[[_Standards/WikiData/WD~San_Francisco,62]]'
+  - '[[_Standards/WikiData/WD~Salvador,36947]]'
+  - '[[_Standards/WikiData/WD~Córdoba,44210]]'
+  - '[[_Standards/WikiData/WD~Rosario,52535]]'
+  - '[[_Standards/WikiData/WD~Malacca,61089]]'
+  - '[[_Standards/WikiData/WD~Guanajuato,61306]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Valparaíso_Region,219458]]"
-  - "[[_Standards/WikiData/WD~Valparaíso_Province,721744]]"
-  - "[[_Standards/WikiData/WD~Valparaíso,23660191]]"
-different_from: "[[_Standards/WikiData/WD~Valparaiso,231702]]"
+  - '[[_Standards/WikiData/WD~Valparaíso_Region,219458]]'
+  - '[[_Standards/WikiData/WD~Valparaíso_Province,721744]]'
+  - '[[_Standards/WikiData/WD~Valparaíso,23660191]]'
+different_from: '[[_Standards/WikiData/WD~Valparaiso,231702]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
-  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+  - '[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]'
+  - '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~port_city,2264924]]"
-  - "[[_Standards/WikiData/WD~city_in_Chile,25412763]]"
-  - "[[_Standards/WikiData/WD~legislature,11204]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Valparaíso,23660191]]"
-country: "[[_Standards/WikiData/WD~Chile,298]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~port_city,2264924]]'
+  - '[[_Standards/WikiData/WD~city_in_Chile,25412763]]'
+  - '[[_Standards/WikiData/WD~legislature,11204]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Valparaíso,23660191]]'
+country: '[[_Standards/WikiData/WD~Chile,298]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 elevation_above_sea_level: 21
-local_dialing_code: "32"
+local_dialing_code: 32
 area: 47.98
 population: 296655
 Commons_gallery: Valparaíso
 Commons_category: Valparaíso
-CUT_code: "05101"
-postal_code: "2340000"
-U_S_National_Archives_Identifier: "10044660"
+CUT_code: 05101
+postal_code: 2340000
+U_S_National_Archives_Identifier: 10044660
 native_label: Valparaíso
 official_name: Valparaíso
-OmegaWiki_Defined_Meaning: "1641254"
+OmegaWiki_Defined_Meaning: 1641254
 demonym:
   - Porteño
   - Porteña

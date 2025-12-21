@@ -1,9 +1,10 @@
 ---
 aliases:
-  - Easter Island 
+  - Easter Island
   - Isla de Pascua
-  - Rapa Nui 
-has_id_wikidata:
+  - Rapa Nui
+  - Easter_Island
+has_id_wikidata: ''
 ---
 
 

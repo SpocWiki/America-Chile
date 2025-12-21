@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Libertador_General_Bernardo_O'Higgins
+  - Libertador General Bernardo O'Higgins
 location:
   - -34.5
   - -71.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Libertador_General_Bernardo_O'Higgins
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Libertador_General_Bernardo_O'Higgins
