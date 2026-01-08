@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -70.67
 dv_has_place_latitude: -33.45
-dv_name: Santiago
+dv_has_name_: Santiago
 dv_Country: "[[../../../../Chile]]"
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Santiago,2887|WD~Santiago,2887]]"
