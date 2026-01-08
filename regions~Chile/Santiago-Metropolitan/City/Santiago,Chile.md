@@ -16,20 +16,28 @@ tags:
 SpocWebEntityId: 33946
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -70.67
+dv_has_place_latitude: -33.45
+dv_name: Santiago
+dv_Country: "[[../../../../Chile]]"
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Santiago,2887|WD~Santiago,2887]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Santiago,2887|WD~Santiago,2887]]"
 ---
 
 # [[Santiago,Chile]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-70.67] 
-[has_place_latitude::-33.45] 
-[name::Santiago] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Chile]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Santiago,2887|WD~Santiago,2887]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -64,17 +72,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Santiago](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago,Chile|Santiago,Chile]] 
 
-### [Santiago.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago,Chile.public|Santiago,Chile.public]] 
 
-### [Santiago.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago,Chile.internal|Santiago,Chile.internal]] 
 
-### [Santiago.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago,Chile.protect|Santiago,Chile.protect]] 
 
-### [Santiago.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago,Chile.private|Santiago,Chile.private]] 
 
-### [Santiago.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago,Chile.personal|Santiago,Chile.personal]] 
 
-### [Santiago.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan/City/Santiago,Chile.secret|Santiago,Chile.secret]] 
 

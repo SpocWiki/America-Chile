@@ -41,17 +41,17 @@ markerFolder: ./Arica_y_Parinacota/
 
 ## Confidential Links & Embeds: 
 
-### [Arica_y_Parinacota](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Arica_y_Parinacota|Arica_y_Parinacota]] 
 
-### [Arica_y_Parinacota.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Arica_y_Parinacota.public|Arica_y_Parinacota.public]] 
 
-### [Arica_y_Parinacota.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Arica_y_Parinacota.internal|Arica_y_Parinacota.internal]] 
 
-### [Arica_y_Parinacota.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Arica_y_Parinacota.protect|Arica_y_Parinacota.protect]] 
 
-### [Arica_y_Parinacota.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Arica_y_Parinacota.private|Arica_y_Parinacota.private]] 
 
-### [Arica_y_Parinacota.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Arica_y_Parinacota.personal|Arica_y_Parinacota.personal]] 
 
-### [Arica_y_Parinacota.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Arica_y_Parinacota.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Arica_y_Parinacota.secret|Arica_y_Parinacota.secret]] 
 

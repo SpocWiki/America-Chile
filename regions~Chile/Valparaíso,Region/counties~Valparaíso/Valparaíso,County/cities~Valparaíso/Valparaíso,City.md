@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Valparaíso,33986|WD~Valparaíso,33986]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Valparaíso,33986|WD~Valparaíso,33986]]"
+
 has_time_started: 1536-01-01 
 aliases:
   - Valparaíso
@@ -102,7 +106,7 @@ Provenio_UUID: 37333a93-8f83-4fcc-aafe-ca70d7d9c940
 
 # [[Valparaíso,City]]
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Valparaíso,33986|WD~Valparaíso,33986]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -194,17 +198,17 @@ markerFile: [[Valparaíso,City]]
 
 ## Confidential Links & Embeds: 
 
-### [Valparaíso](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Valparaíso.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Valparaíso,County/cities~Valparaíso/Valparaíso,City|Valparaíso,City]] 
 
-### [Valparaíso.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Valparaíso.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Valparaíso,County/cities~Valparaíso/Valparaíso,City.public|Valparaíso,City.public]] 
 
-### [Valparaíso.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Valparaíso.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Valparaíso,County/cities~Valparaíso/Valparaíso,City.internal|Valparaíso,City.internal]] 
 
-### [Valparaíso.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Valparaíso.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Valparaíso,County/cities~Valparaíso/Valparaíso,City.protect|Valparaíso,City.protect]] 
 
-### [Valparaíso.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Valparaíso.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Valparaíso,County/cities~Valparaíso/Valparaíso,City.private|Valparaíso,City.private]] 
 
-### [Valparaíso.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Valparaíso.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Valparaíso,County/cities~Valparaíso/Valparaíso,City.personal|Valparaíso,City.personal]] 
 
-### [Valparaíso.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Valparaíso.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Valparaíso,County/cities~Valparaíso/Valparaíso,City.secret|Valparaíso,City.secret]] 
 

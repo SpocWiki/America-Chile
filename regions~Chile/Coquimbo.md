@@ -40,17 +40,17 @@ markerFolder: ./Coquimbo/
 
 ## Confidential Links & Embeds: 
 
-### [Coquimbo](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Coquimbo|Coquimbo]] 
 
-### [Coquimbo.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Coquimbo.public|Coquimbo.public]] 
 
-### [Coquimbo.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Coquimbo.internal|Coquimbo.internal]] 
 
-### [Coquimbo.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Coquimbo.protect|Coquimbo.protect]] 
 
-### [Coquimbo.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Coquimbo.private|Coquimbo.private]] 
 
-### [Coquimbo.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Coquimbo.personal|Coquimbo.personal]] 
 
-### [Coquimbo.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Coquimbo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Coquimbo.secret|Coquimbo.secret]] 
 

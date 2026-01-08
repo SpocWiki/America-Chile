@@ -41,17 +41,17 @@ markerFolder: ./La_Araucanía/
 
 ## Confidential Links & Embeds: 
 
-### [Araucanía](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Araucanía.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Araucanía|Araucanía]] 
 
-### [Araucanía.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Araucanía.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Araucanía.public|Araucanía.public]] 
 
-### [Araucanía.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Araucanía.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Araucanía.internal|Araucanía.internal]] 
 
-### [Araucanía.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Araucanía.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Araucanía.protect|Araucanía.protect]] 
 
-### [Araucanía.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Araucanía.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Araucanía.private|Araucanía.private]] 
 
-### [Araucanía.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Araucanía.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Araucanía.personal|Araucanía.personal]] 
 
-### [Araucanía.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Araucanía.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Araucanía.secret|Araucanía.secret]] 
 

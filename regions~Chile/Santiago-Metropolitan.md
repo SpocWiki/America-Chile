@@ -41,17 +41,17 @@ markerFolder: ./Región_Metropolitana_de_Santiago/
 
 ## Confidential Links & Embeds: 
 
-### [Santiago-Metropolitan](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan|Santiago-Metropolitan]] 
 
-### [Santiago-Metropolitan.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan.public|Santiago-Metropolitan.public]] 
 
-### [Santiago-Metropolitan.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan.internal|Santiago-Metropolitan.internal]] 
 
-### [Santiago-Metropolitan.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan.protect|Santiago-Metropolitan.protect]] 
 
-### [Santiago-Metropolitan.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan.private|Santiago-Metropolitan.private]] 
 
-### [Santiago-Metropolitan.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan.personal|Santiago-Metropolitan.personal]] 
 
-### [Santiago-Metropolitan.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Santiago-Metropolitan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Santiago-Metropolitan.secret|Santiago-Metropolitan.secret]] 
 

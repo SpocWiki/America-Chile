@@ -51,3 +51,20 @@ has_id_wikidata: ''
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Easter%20Island) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Islade_Pascua/Easter_Island|Easter_Island]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Islade_Pascua/Easter_Island.public|Easter_Island.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Islade_Pascua/Easter_Island.internal|Easter_Island.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Islade_Pascua/Easter_Island.protect|Easter_Island.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Islade_Pascua/Easter_Island.private|Easter_Island.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Islade_Pascua/Easter_Island.personal|Easter_Island.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Valparaíso,Region/counties~Valparaíso/Islade_Pascua/Easter_Island.secret|Easter_Island.secret]] 
+

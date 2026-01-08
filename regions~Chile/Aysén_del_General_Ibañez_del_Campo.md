@@ -42,17 +42,17 @@ markerFolder: ./Aisén_del_General_Carlos_Ibáñez_del_Campo/
 
 ## Confidential Links & Embeds: 
 
-### [Aysén_del_General_Ibañez_del_Campo](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo|Aysén_del_General_Ibañez_del_Campo]] 
 
-### [Aysén_del_General_Ibañez_del_Campo.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.public|Aysén_del_General_Ibañez_del_Campo.public]] 
 
-### [Aysén_del_General_Ibañez_del_Campo.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.internal|Aysén_del_General_Ibañez_del_Campo.internal]] 
 
-### [Aysén_del_General_Ibañez_del_Campo.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.protect|Aysén_del_General_Ibañez_del_Campo.protect]] 
 
-### [Aysén_del_General_Ibañez_del_Campo.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.private|Aysén_del_General_Ibañez_del_Campo.private]] 
 
-### [Aysén_del_General_Ibañez_del_Campo.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.personal|Aysén_del_General_Ibañez_del_Campo.personal]] 
 
-### [Aysén_del_General_Ibañez_del_Campo.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Aysén_del_General_Ibañez_del_Campo.secret|Aysén_del_General_Ibañez_del_Campo.secret]] 
 

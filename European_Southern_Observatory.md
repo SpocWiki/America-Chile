@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]"
+
 has_time_started: 1962-01-01 
 aliases:
   - European Southern Observatory
@@ -46,7 +50,7 @@ Commons_category: European Southern Observatory
 
 # [[European_Southern_Observatory]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -96,4 +100,21 @@ Commons_category: European Southern Observatory
 > including Gliese 581c—one of the smallest planets seen outside the Solar System.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Southern%20Observatory) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/European_Southern_Observatory|European_Southern_Observatory]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/European_Southern_Observatory.public|European_Southern_Observatory.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/European_Southern_Observatory.internal|European_Southern_Observatory.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/European_Southern_Observatory.protect|European_Southern_Observatory.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/European_Southern_Observatory.private|European_Southern_Observatory.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/European_Southern_Observatory.personal|European_Southern_Observatory.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/European_Southern_Observatory.secret|European_Southern_Observatory.secret]] 
 

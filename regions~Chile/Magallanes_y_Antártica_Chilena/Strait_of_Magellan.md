@@ -1,45 +1,48 @@
 ---
 aliases:
-  - 'Strait of Magellan (Spanish: Estrecho de Magallanes), also called the Straits of Magellan'
+  - "Strait of Magellan (Spanish: Estrecho de Magallanes), also called the Straits of Magellan"
   - Strait_of_Magellan
   - Strait of Magellan
 has_id_wikidata: Q48365
 location:
-  - -54.0
-  - -71.0
+  - -54
+  - -71
 coordinate_location: Point(-71.0 -54.0)
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 inflows:
-  - '[[_Standards/WikiData/WD~Las_Minas_River,6115326]]'
-  - '[[_Standards/WikiData/WD~Del_Oro_river_(San_Felipe_Bay),22373755]]'
-  - '[[_Standards/WikiData/WD~Oscar_river,22388436]]'
-  - '[[_Standards/WikiData/WD~Rio_Porvenir,22390791]]'
-  - '[[_Standards/WikiData/WD~Río_Santa_María,22393819]]'
-  - '[[_Standards/WikiData/WD~Santa_Susana_river,22393861]]'
-  - '[[_Standards/WikiData/WD~Arroyo_de_la_Puerta,22454382]]'
-  - '[[_Standards/WikiData/WD~Río_Batchelor,23653206]]'
-  - '[[_Standards/WikiData/WD~Río_San_Juan_de_la_Posesión,23960186]]'
-  - '[[_Standards/WikiData/WD~Del_Oro_river_(Snug_bay),113451430]]'
-shares_border_with: '[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]'
-country: '[[_Standards/WikiData/WD~Chile,298]]'
-named_after: '[[_Standards/WikiData/WD~Ferdinand_Magellan,1496]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Ferdinand_Magellan,1496]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Magellan_and_the_Chilean_Antarctic_Region,2189]]'
+  - "[[_Standards/WikiData/WD~Las_Minas_River,6115326]]"
+  - "[[_Standards/WikiData/WD~Del_Oro_river_(San_Felipe_Bay),22373755]]"
+  - "[[_Standards/WikiData/WD~Oscar_river,22388436]]"
+  - "[[_Standards/WikiData/WD~Rio_Porvenir,22390791]]"
+  - "[[_Standards/WikiData/WD~Río_Santa_María,22393819]]"
+  - "[[_Standards/WikiData/WD~Santa_Susana_river,22393861]]"
+  - "[[_Standards/WikiData/WD~Arroyo_de_la_Puerta,22454382]]"
+  - "[[_Standards/WikiData/WD~Río_Batchelor,23653206]]"
+  - "[[_Standards/WikiData/WD~Río_San_Juan_de_la_Posesión,23960186]]"
+  - "[[_Standards/WikiData/WD~Del_Oro_river_(Snug_bay),113451430]]"
+shares_border_with: "[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]"
+country: "[[_Standards/WikiData/WD~Chile,298]]"
+named_after: "[[_Standards/WikiData/WD~Ferdinand_Magellan,1496]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Ferdinand_Magellan,1496]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Magellan_and_the_Chilean_Antarctic_Region,2189]]"
 vertical_depth: 1080
-instance_of: '[[_Standards/WikiData/WD~strait,37901]]'
+instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Chile.estrechodemagallanes.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/StraitOfMagellan.jpg
 Commons_gallery: Strait of Magellan
 Commons_category: Strait of Magellan
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Strait_of_Magellan,48365|WD~Strait_of_Magellan,48365]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Strait_of_Magellan,48365|WD~Strait_of_Magellan,48365]]"
 ---
 
 # [[Strait_of_Magellan]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Strait_of_Magellan,48365|WD~Strait_of_Magellan,48365]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -71,4 +74,21 @@ Commons_category: Strait of Magellan
 > before the construction of the Panama Canal.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strait%20of%20Magellan) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena/Strait_of_Magellan|Strait_of_Magellan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena/Strait_of_Magellan.public|Strait_of_Magellan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena/Strait_of_Magellan.internal|Strait_of_Magellan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena/Strait_of_Magellan.protect|Strait_of_Magellan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena/Strait_of_Magellan.private|Strait_of_Magellan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena/Strait_of_Magellan.personal|Strait_of_Magellan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena/Strait_of_Magellan.secret|Strait_of_Magellan.secret]] 
 

@@ -20,16 +20,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  similar_to: "[[../../Argentina/Provinces~Argentina/Tierra_del_Fuego|Tierra_del_Fuego]]"
+dv_is_similar_to: "[[../../Argentina/Provinces~Argentina/Tierra_del_Fuego|Tierra_del_Fuego]]"
 ---
 
 # [[Magallanes_y_Antártica_Chilena]] 
 
-#is_/similar_to :: [[../../Argentina/Provinces~Argentina/Tierra_del_Fuego|Tierra_del_Fuego]] 
+is_similar_to = `=this.dv_is_similar_to`
 
 ## #has_/map 
 
@@ -48,17 +51,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### [Magallanes_y_Antártica_Chilena](/_Standards/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena|Magallanes_y_Antártica_Chilena]] 
 
-### [Magallanes_y_Antártica_Chilena.public](/_public/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.public|Magallanes_y_Antártica_Chilena.public]] 
 
-### [Magallanes_y_Antártica_Chilena.internal](/_internal/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.internal|Magallanes_y_Antártica_Chilena.internal]] 
 
-### [Magallanes_y_Antártica_Chilena.protect](/_protect/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.protect|Magallanes_y_Antártica_Chilena.protect]] 
 
-### [Magallanes_y_Antártica_Chilena.private](/_private/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.private|Magallanes_y_Antártica_Chilena.private]] 
 
-### [Magallanes_y_Antártica_Chilena.personal](/_personal/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.personal|Magallanes_y_Antártica_Chilena.personal]] 
 
-### [Magallanes_y_Antártica_Chilena.secret](/_secret/Earth/Continent/America~South/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile/regions~Chile/Magallanes_y_Antártica_Chilena.secret|Magallanes_y_Antártica_Chilena.secret]] 
 
