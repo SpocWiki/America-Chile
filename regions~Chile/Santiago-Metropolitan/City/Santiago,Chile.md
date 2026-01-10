@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -70.67
 dv_has_place_latitude: -33.45
-dv_has_name_: Santiago
+dv_has_name: Santiago
 dv_Country: "[[../../../../Chile]]"
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Santiago,2887|WD~Santiago,2887]]"
@@ -32,7 +32,7 @@ dv_is_same_as: "[[../../../../../../../../WikiData/WD~Santiago,2887|WD~Santiago,
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 
