@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"featurecla":"Island","name":"Sala y Gómez-Island","namealt":null,"region":"Oceania","subregion":null,"min_label":4.7,"max_label":11.0,"scalerank":6},
-"geometry":{"type": "Polygon","coordinates": [[[-105.4619,-26.46063,0.0],[-105.46349,-26.45696,0.0],[-105.46593,-26.4555,0.0],[-105.47094,-26.4577,0.0],[-105.45954,-26.46478,0.0],[-105.4619,-26.46063,0.0]]]}}
+{"type": "Feature","bbox": [-105.47094,-26.46478,-105.45954,-26.4555],"geometry": {"type": "Polygon","coordinates": [[[-105.4619,-26.46063,0.0],[-105.46349,-26.45696,0.0],[-105.46593,-26.4555,0.0],[-105.47094,-26.4577,0.0],[-105.45954,-26.46478,0.0],[-105.4619,-26.46063,0.0]]]}
+,"properties": {"featurecla": "Island","name": "Sala y Gómez-Island","namealt": null,"region": "Oceania","subregion": null,"min_label": 4.7,"max_label": 11.0,"scalerank": 6,"area_km2": 0.4175892,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 0.4175892}}}
